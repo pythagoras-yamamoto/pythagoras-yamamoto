@@ -13,6 +13,11 @@ My recent interests are front-end development and machine learning.
 
 In preparation
 
+### Link
+
+[portfolio](https://www.resume.id/yudai_yamamoto)<br>
+[blog](https://note.com/_yy616_)<br>
+[sns](https://twitter.com/_yy616)
 
 <!--
 **pythagoras-yamamoto/pythagoras-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
