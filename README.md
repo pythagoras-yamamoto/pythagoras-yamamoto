@@ -1,7 +1,7 @@
 ### About Me
 
-I'm a graduate student majoring in CS.
-
+I'm a graduate student majoring in CS. 
+My recent interests are front-end development and machine learning.
 
 ### Languages/Framework
 
