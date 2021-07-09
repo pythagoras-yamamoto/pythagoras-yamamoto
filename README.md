@@ -1,4 +1,16 @@
-### Hi there 👋
+### About Me
+
+I'm a graduate student majoring in CS.
+
+
+### Languages/Framework
+
+- Python
+- Javascript
+- Node.js(Express)
+
+
+
 
 <!--
 **pythagoras-yamamoto/pythagoras-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
