@@ -1,7 +1,11 @@
 ### About Me
 
 I'm a graduate student majoring in CS. 
-My recent interests are front-end development and machine learning.
+My recent interests are :
+- Reinforcement Learning
+- Bayesian Inference
+- Mental Model
+- Front-End Development
 
 ### Languages/Framework
 
