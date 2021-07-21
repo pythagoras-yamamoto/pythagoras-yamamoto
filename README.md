@@ -7,11 +7,10 @@ My recent interests are :
 - Mental Model
 - Front-End Development
 
-### Languages/Framework
+### Languages
 
 - Python
-- Javascript
-- Node.js(Express)
+- Javascript(Node.js)
 
 ### History
 
