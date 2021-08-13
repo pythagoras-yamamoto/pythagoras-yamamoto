@@ -5,7 +5,13 @@ My recent interests are :
 - Reinforcement Learning
 - Bayesian Inference
 - Mental Model
-- Front-End Development
+- Front-End Development  
+
+
+### Major Works
+
+- Preparation
+- Preparation
 
 ### Languages
 
