@@ -18,7 +18,7 @@ My recent interests are :
 #### Langages
 - Python,Javascript(Node.js)
 
-#### Infrastructure,Database
+#### Infrastructure,Database,Others
 - AWS
 - MySQL, PostgreSQL
 - GitHub Actions, CircleCI
