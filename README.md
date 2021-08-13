@@ -14,7 +14,12 @@ My recent interests are :
 
 ### History
 
-In preparation
+#### 2021
+
+- NIFTY Corp. (3days internships for enginners)
+- Nikkei Inc. (3days internships for enginners)
+- NAVITIME JAPAN Co., Ltd. (3days internships for enginners)
+- Nihon Unisys, Ltd. (5days internships for enginners)
 
 ### Link
 
