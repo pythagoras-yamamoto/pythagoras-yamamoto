@@ -1,6 +1,7 @@
 ### About Me
 
-I'm a graduate student majoring in CS. 
+I'm a graduate student majoring in Cognitive Science and Information Science at JAIST CogCompLab.
+
 My recent interests are :
 - Reinforcement Learning
 - Bayesian Inference
