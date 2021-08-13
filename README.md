@@ -13,10 +13,16 @@ My recent interests are :
 - Preparation
 - Preparation
 
-### Languages
+### Stack
 
-- Python
-- Javascript(Node.js)
+#### Langages
+- Python,Javascript(Node.js)
+
+#### Infrastructure,Database
+- AWS
+- MySQL, PostgreSQL
+- GitHub Actions, CircleCI
+
 
 ### History
 
