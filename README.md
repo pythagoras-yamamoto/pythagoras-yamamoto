@@ -16,7 +16,7 @@ My recent interests are :
 
 ### Stack
 
-#### Langages,Frameworks
+#### Langages,Framework
 - Python,Javascript(Node.js)
 - Flask,Express
 
