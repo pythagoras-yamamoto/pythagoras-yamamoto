@@ -20,7 +20,6 @@ My recent interests are :
 - Python,Javascript(Node.js)
 
 #### Infrastructure,Database,Others
-- AWS
 - MySQL, PostgreSQL
 - GitHub Actions, CircleCI
 
