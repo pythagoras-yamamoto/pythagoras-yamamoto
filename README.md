@@ -35,11 +35,9 @@ My recent interests are :
   
 #####  (Participation plan)
 - NAVITIME JAPAN Co., Ltd. (3days internships for enginners)
-- Nikkei Inc. (4days internships for enginners)
+- Nikkei Inc. (3days internships for enginners)
 - Nihon Unisys, Ltd. (5days internships for enginners)
 
-#### Hackathon
-- Yamato Transport Co., Ltd. (2days)
 
 
 ### Link
