@@ -29,7 +29,9 @@ My recent interests are :
 
 #### 2021
 
-- NIFTY Corp. (3days internships for enginners)　... Responsible for front-end in scrum development
+- NIFTY Corp. (3days internships for enginners) <br>
+  Responsible for front-end in scrum development
+  
 - NAVITIME JAPAN Co., Ltd. (3days internships for enginners)
 - Nikkei Inc. (4days internships for enginners)
 - Nihon Unisys, Ltd. (5days internships for enginners)
