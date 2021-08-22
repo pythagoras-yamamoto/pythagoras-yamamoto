@@ -4,7 +4,7 @@ I'm a graduate student majoring in Cognitive Science and Information Science at 
 
 My recent interests are :
 - Reinforcement Learning
-- Bayesian Inference
+- Causal inference
 - Mental Model
 - Front-End Development  
 
