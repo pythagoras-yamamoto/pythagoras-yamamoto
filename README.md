@@ -2,12 +2,15 @@
 
 I'm a graduate student majoring in Cognitive Science and Information Science at JAIST CogCompLab.
 
-My recent interests are :
-- Reinforcement Learning
+My interests are :
 - Causal inference
 - Mental Model
 - Front-End Development  
 
+The study I've been working on lately is :
+- Reinforcement Learning 
+- RDBMS
+- React
 
 ### Major Works
 
