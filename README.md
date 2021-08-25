@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a graduate student majoring in Cognitive Science and Information Science at JAIST CogCompLab.
+I'm a graduate student majoring in Cognitive Science and Information Science at JAIST [CogCompLab](http://www.jaist.ac.jp/ks/labs/shhidaka/cogcomp/).
 
 My interests are :
 - Causal inference
