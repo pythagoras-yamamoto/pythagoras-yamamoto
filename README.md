@@ -41,6 +41,12 @@ The study I've been working on lately is :
 - Nikkei Inc. (3days internships for enginners)
 - Nihon Unisys, Ltd. (5days internships for enginners)
 
+#### Rart-Time Job
+- Preparation
+
+#### Event
+- Sony Group Corp. (1day internships) <br> 
+  Open Hause on UI/UX, Human centered design
 
 
 ### Link
