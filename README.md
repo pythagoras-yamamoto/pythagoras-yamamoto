@@ -50,10 +50,10 @@ The study I've been working on lately is :
 
 
 ## Link
-
-- [Blog](https://note.com/_yy616_)<br>
 - [SNS](https://twitter.com/_yy616)
-
+- [Wantedly](https://www.wantedly.com/id/yy_616)
+- [Blog](https://note.com/_yy616_)
+- [Zenn](https://zenn.dev/yy616)
 <!--
 **pythagoras-yamamoto/pythagoras-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
