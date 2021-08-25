@@ -50,7 +50,7 @@ The study I've been working on lately is :
 
 
 ## Link
-- [SNS](https://twitter.com/_yy616)
+- [Twitter](https://twitter.com/_yy616)
 - [Wantedly](https://www.wantedly.com/id/yy_616)
 - [Blog](https://note.com/_yy616_)
 - [Zenn](https://zenn.dev/yy616)
