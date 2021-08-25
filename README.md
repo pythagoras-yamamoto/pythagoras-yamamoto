@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 I'm a graduate student majoring in Cognitive Science and Information Science at JAIST CogCompLab.
 
@@ -12,12 +12,12 @@ The study I've been working on lately is :
 - RDBMS
 - React
 
-### Major Works
+## Major Works
 
 - Preparation
 - Preparation
 
-### Stack
+## Stack
 
 #### Langages,Framework
 - Python,Javascript(Node.js)
@@ -28,7 +28,7 @@ The study I've been working on lately is :
 - Docker,GitHub Actions, CircleCI
 
 
-### History
+## History
 
 ### 2021
 
@@ -49,7 +49,7 @@ The study I've been working on lately is :
   Open Hause on UI/UX, Human centered design
 
 
-### Link
+## Link
 
 - [Blog](https://note.com/_yy616_)<br>
 - [SNS](https://twitter.com/_yy616)
