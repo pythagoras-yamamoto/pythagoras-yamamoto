@@ -38,7 +38,7 @@ The study I've been working on lately is :
   
 #####  (Participation plan)
 - Nikkei Inc. (3days internships for enginners)
-- Nihon Unisys, Ltd. (5days internships for enginners)
+- Nihon Unisys, Ltd. (5days internships for enginners) <br>
   Responsible for front-end in scrum development
   
 #### Rart-Time Job
