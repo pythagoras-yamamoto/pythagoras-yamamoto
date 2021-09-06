@@ -20,7 +20,7 @@ The study I've been working on lately is :
 
 #### Langages,Framework
 - Python,Javascript(Node.js)
-- Flask,Express
+- React,Express
 
 #### Infrastructure,Database,Others
 - MySQL, PostgreSQL
