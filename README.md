@@ -26,8 +26,6 @@ The study I've been working on lately is :
 - MySQL, PostgreSQL
 - Docker,GitHub Actions, CircleCI
 
-#### ML/
-
 ## History
 
 ### 2021
