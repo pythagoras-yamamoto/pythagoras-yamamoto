@@ -35,9 +35,8 @@ The study I've been working on lately is :
   Responsible for front-end in scrum development
   
 #####  (Participation plan)
-- Nikkei Inc. (3days internships for enginners)
-- Nihon Unisys, Ltd. (5days internships for enginners) <br>
-  Responsible for front-end in scrum development
+- Nikkei Inc. (4days internships for enginners)
+- NAVITIME JAPAN Co., Ltd　　（3days internships for enginners)
   
 #### Rart-Time Job
 - Preparation
