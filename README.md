@@ -33,15 +33,17 @@ The study I've been working on lately is :
 #### Internship
 - NIFTY Corp. (3days internships for enginners) <br>
   Responsible for front-end in scrum development
+- NAVITIME JAPAN Co.,Ltd (3days internships for enginners) <br>
+  Create a map application using WebAPI
+ 
   
 #####  (Participation plan)
 - Nikkei Inc. (4days internships for enginners)
-- NAVITIME JAPAN Co.,Ltd (3days internships for enginners)
   
 #### Rart-Time Job
 - Preparation
 
-#### Event
+#### Event/Hackathon/Project
 - Sony Group Corp. (1day internships) <br> 
   Open Hause on UI/UX, Human centered design
 
