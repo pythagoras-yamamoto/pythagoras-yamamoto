@@ -36,7 +36,7 @@ The study I've been working on lately is :
   
 #####  (Participation plan)
 - Nikkei Inc. (4days internships for enginners)
-- NAVITIME JAPAN Co., Ltd　　（3days internships for enginners)
+- NAVITIME JAPAN Co.,Ltd (3days internships for enginners)
   
 #### Rart-Time Job
 - Preparation
