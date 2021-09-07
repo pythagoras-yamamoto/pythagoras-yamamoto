@@ -43,7 +43,7 @@ The study I've been working on lately is :
 #### Rart-Time Job
 - Preparation
 
-#### Event/Hackathon/Project
+#### Event,Hackathon,Project
 - Sony Group Corp. (1day internships) <br> 
   Open Hause on UI/UX, Human centered design
 
