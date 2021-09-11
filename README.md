@@ -35,10 +35,11 @@ The study I've been working on lately is :
   Responsible for front-end in scrum development
 - NAVITIME JAPAN Co.,Ltd (3days internships for enginners) <br>
   Create a map application using WebAPI
- 
-  
-#####  (Participation plan)
 - Nikkei Inc. (4days internships for enginners)
+  Create a Data-Visualization using WebAPI
+  
+<!--#####  (Participation plan) -->
+
   
 #### Rart-Time Job
 - Preparation
