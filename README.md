@@ -9,7 +9,7 @@ My interests are :
 
 The study I've been working on lately is :
 - Reinforcement Learning 
-- Rudux
+- Redux
 
 ## Major Works
 
