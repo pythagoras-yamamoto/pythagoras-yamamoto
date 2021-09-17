@@ -3,13 +3,12 @@
 I'm a graduate student majoring in Cognitive Science and Information Science at JAIST [CogCompLab](http://www.jaist.ac.jp/ks/labs/shhidaka/cogcomp/).
 
 My interests are :
-- Causal inference
-- Mental Model
-- Front-End Development  
+- Causal Inference
+- Front-End Development 
 
 The study I've been working on lately is :
 - Reinforcement Learning 
-- Redux
+- React.js / Redux
 
 ## Major Works
 
