@@ -12,8 +12,8 @@ The study I've been working on lately is :
 
 ## Major Works
 
-- Preparation
-- Preparation
+- Osteopathic Clinic HP (Preparation)
+- Projection Mapping Opera (Preparation)
 
 ## Stack
 
