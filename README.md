@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a graduate student majoring in Cognitive Science and Information Science at JAIST [Kanai Lab](http://www.jaist.ac.jp/~hideaki/klab/index-j.html).
+I'm a graduate student majoring in Knowledge Engineering and Information Science at JAIST [Kanai Lab](http://www.jaist.ac.jp/~hideaki/klab/index-j.html).
 
 My interests are :
 - Computational Social Science
