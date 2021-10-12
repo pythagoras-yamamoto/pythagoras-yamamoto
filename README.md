@@ -3,7 +3,8 @@
 I'm a graduate student majoring in Cognitive Science and Information Science at JAIST [CogCompLab](http://www.jaist.ac.jp/ks/labs/shhidaka/cogcomp/).
 
 My interests are :
-- Computational Model
+- Computational Social Science
+- Behavioural Design
 - Front-End Development 
 
 The study I've been working on lately is :
@@ -18,12 +19,13 @@ The study I've been working on lately is :
 ## Stack
 
 #### Langages,Framework
-- Python,Javascript(Node.js)
+- Python,Javascript
 - React,Express
 
 #### Infrastructure,Database,Others
 - MySQL, PostgreSQL
-- Docker,GitHub Actions, CircleCI
+- Docker, Firebase
+- Figma, Illustrator
 
 ## History
 
