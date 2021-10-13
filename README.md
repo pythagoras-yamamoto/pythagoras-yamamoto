@@ -8,7 +8,7 @@ My interests are :
 - Front-End Development 
 
 The study I've been working on lately is :
-- Reinforce Learning
+- NLP
 - React.js / Redux
 
 ## Major Works
