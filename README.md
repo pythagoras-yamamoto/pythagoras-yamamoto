@@ -4,7 +4,7 @@ I'm a graduate student majoring in Knowledge Engineering and Information Science
 
 My interests are :
 - Computational Social Science
-- Behavioural Design
+- Web Mining
 - Front-End Development 
 
 The study I've been working on lately is :
