@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a graduate student majoring in Knowledge Engineering and Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/areas/km/laboratory/dam.html).
+I'm a graduate student majoring in Knowledge Engineering and Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/).
 
 My interests are :
 - Computational Social Science
