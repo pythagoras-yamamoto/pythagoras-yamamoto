@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/).
+I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying data science.
 
 My interests are :
 - Computational Social Science
