@@ -6,6 +6,7 @@ My interests are :
 - Computational Social Science
 - Web Mining
 - Front-End Development 
+- UI/UX
 
 The study I've been working on lately is :
 - NLP
