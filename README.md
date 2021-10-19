@@ -33,11 +33,11 @@ The study I've been working on lately is :
 ### 2021
 
 #### Internship
-- NIFTY Corp. (3days internships for enginners) <br>
+- NIFTY Corp. (3days internships for engineers) <br>
   Responsible for front-end in scrum development
-- NAVITIME JAPAN Co.,Ltd (3days internships for enginners) <br>
+- NAVITIME JAPAN Co.,Ltd (3days internships for engineers) <br>
   Create a map application using WebAPI
-- Nikkei Inc. (4days internships for enginners) <br>
+- Nikkei Inc. (4days internships for engineers) <br>
   Create a Data-Visualization using WebAPI
   
 <!--#####  (Participation plan) -->
@@ -50,7 +50,7 @@ The study I've been working on lately is :
 - Sony Group Corp. (1day internships) <br> 
   Open Hause on UI/UX, Human centered design
 - The Asahi shinbun Company (1day internships) <br> 
-  Media Enginner Course
+  Media Engineer Course
 
 ## Link
 - [twitter](https://twitter.com/_yy616)
