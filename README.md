@@ -49,8 +49,8 @@ The study I've been working on lately is :
 #### Event,Hackathon,Project
 - Sony Group Corp. (1day internships) <br> 
   Open Hause on UI/UX, Human centered design
-- Asahi Corp. (1day internships) <br> 
-  Open Hause on UI/UX, Human centered design
+- The Asahi shinbun Company (1day internships) <br> 
+  Media Enginner Course
 
 ## Link
 - [twitter](https://twitter.com/_yy616)
