@@ -1,15 +1,14 @@
 ## About Me
 
-I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying data science.
+I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying Website Optimization.
 
 My interests are :
-- Computational Social Science
-- Web Mining
+- Website Optimization
 - Front-End Development 
 - UI/UX
 
 The study I've been working on lately is :
-- NLP
+- Reinforcement Learning
 - React.js / Redux
 
 ## Major Works
