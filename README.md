@@ -51,6 +51,8 @@ The study I've been working on lately is :
 - The Asahi shinbun Company (1day internships) <br> 
   Media Engineer Course
 
+- Matching HUB Business Idea & Plan Competition 2021, Winner
+
 ## Link
 - [twitter](https://twitter.com/_yy616)
 - [Wantedly](https://www.wantedly.com/id/yy_616)
