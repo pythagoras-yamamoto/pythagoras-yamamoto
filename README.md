@@ -8,8 +8,7 @@ My interests are :
 - UI/UX
 
 The study I've been working on lately is :
-- Reinforcement Learning
-- React.js / Redux
+- Typescript
 
 ## Major Works
 
