@@ -1,10 +1,9 @@
 ## About Me
 
-I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying Website Optimization.
+I'm a graduate student majoring in data engineering at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying data mining, fake news.
 
 My interests are :
-- Website Optimization
-- Front-End Development 
+- Front-End Development
 - UI/UX
 
 The study I've been working on lately is :
@@ -13,7 +12,7 @@ The study I've been working on lately is :
 ## Major Works
 
 - Osteopathic Clinic HP (Preparation)
-- Projection Mapping Opera (Preparation)
+- NaviApp
 
 ## Stack
 
@@ -45,12 +44,9 @@ The study I've been working on lately is :
 - Preparation
 
 #### Event,Hackathon,Project
-- Sony Group Corp. (1day internships) <br> 
-  Open Hause on UI/UX, Human centered design
-- The Asahi shinbun Company (1day internships) <br> 
-  Media Engineer Course
-
-- Matching HUB Business Idea & Plan Competition 2021, Winner
+- Projection Mapping Opera 2021 (Preparation) <br>
+- Matching HUB Business Idea & Plan Competition 2021, Winner <br>
+- Capstone Project 
 
 ## Link
 - [twitter](https://twitter.com/_yy616)
