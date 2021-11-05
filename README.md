@@ -4,8 +4,8 @@ I'm a graduate student majoring in data engineering at JAIST [Dam Lab](https://w
 
 My interests are :
 - Front-End Development
-- UI/UX
-- NLP
+- Interface
+- UX
 
 The study I've been working on lately is :
 - React Hooks
