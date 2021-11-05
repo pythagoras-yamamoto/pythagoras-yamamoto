@@ -23,7 +23,7 @@ The study I've been working on lately is :
 - Python,Javascript
 - React,Express
 
-#### Infrastructure,Database,Others
+#### Infrastructure,Database,Tools
 - MySQL, PostgreSQL
 - Docker, Firebase
 - Figma, Illustrator
