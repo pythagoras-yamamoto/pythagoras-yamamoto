@@ -1,12 +1,14 @@
 ## About Me
 
-I'm a graduate student majoring in data engineering at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying data mining, fake news.
+I'm a graduate student majoring in data engineering at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying fake news, social sensor.
 
 My interests are :
 - Front-End Development
 - UI/UX
+- NLP
 
 The study I've been working on lately is :
+- React Hooks
 - Typescript
 
 ## Major Works
