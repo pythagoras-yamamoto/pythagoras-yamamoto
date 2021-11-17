@@ -1,11 +1,11 @@
 ## About Me
 
-I'm a graduate student majoring in data engineering at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). In particular, I'm studying fake news, social sensor.
+I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study sociophysics, especially fake news and social sensors. 
 
 My interests are :
 - Front-End Development
-- Interface
-- UX
+- UI/UX
+- Data Analysis
 
 The study I've been working on lately is :
 - React Hooks
