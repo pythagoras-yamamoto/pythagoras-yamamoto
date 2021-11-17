@@ -14,7 +14,7 @@ The study I've been working on lately is :
 
 ## Major Works
 
-- Osteopathic Clinic HP (Preparation)
+- Osteopathic Clinic HP
 - NaviApp
 
 ## Stack
