@@ -54,7 +54,7 @@ The study I've been working on lately is :
 ## Link
 - [twitter](https://twitter.com/_yy616)
 - [Wantedly](https://www.wantedly.com/id/yy_616)
-- [note](https://note.com/_yy616_)
+- [note](https://note.com/_yy616)
 - [Zenn](https://zenn.dev/yy616)
 <!--
 **pythagoras-yamamoto/pythagoras-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
