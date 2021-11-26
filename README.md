@@ -10,7 +10,7 @@ My interests are :
 The study I've been working on lately is :
 - React Hooks
 - Typescript
-- NLP
+- Chakra UI
 
 ## Major Works
 
