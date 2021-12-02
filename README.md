@@ -15,7 +15,7 @@ The study I've been working on lately is :
 ## Major Works
 
 - Osteopathic Clinic HP
-- NaviApp
+<!-- NaviApp -->
 
 ## Stack
 
@@ -24,9 +24,9 @@ The study I've been working on lately is :
 - React,Express
 
 #### Infrastructure,Database,Tools
-- MySQL, PostgreSQL
+- MySQL
 - Docker, Firebase
-- Figma, Illustrator
+- Figma, Canva, Illustrator
 
 ## History
 
