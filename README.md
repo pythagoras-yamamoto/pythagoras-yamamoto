@@ -14,8 +14,8 @@ The study I've been working on lately is :
 
 ## Major Works
 
-- Osteopathic Clinic HP
-<!-- NaviApp -->
+- [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic)
+
 
 ## Stack
 
