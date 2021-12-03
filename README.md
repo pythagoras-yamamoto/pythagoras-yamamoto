@@ -15,6 +15,7 @@ The study I've been working on lately is :
 ## Major Works
 
 - [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic)
+- [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
 
 
 ## Stack
