@@ -8,9 +8,9 @@ My interests are :
 - Data Analysis
 
 The study I've been working on lately is :
-- React Hooks
 - Typescript
-- Chakra UI
+- Framer Motion
+- Three.js
 
 ## Major Works
 
@@ -39,7 +39,10 @@ The study I've been working on lately is :
 - NAVITIME JAPAN Co.,Ltd (3days internships for engineers) <br>
   Create a map application using WebAPI
 - Nikkei Inc. (4days internships for engineers) <br>
-  Create a Data-Visualization using WebAPI
+  Create a Data-Visualization using WebAPI  <br>
+
+#### Hackathon
+- Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon <br>
   
 <!--#####  (Participation plan) -->
 
@@ -47,9 +50,8 @@ The study I've been working on lately is :
 #### Rart-Time Job
 - Preparation
 
-#### Event,Hackathon,Project
+#### Event,Project
 - Matching HUB Business Idea & Plan Competition 2021, Winner <br>
-- Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon <br>
 - Projection Mapping Opera 2022 <br>
 
 ## Link
