@@ -34,7 +34,8 @@ The study I've been working on lately is typescript, three.js, deep Learning.
   Create a Data-Visualization using WebAPI  <br>
 
 ### 💡 Hackathon
-- Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon <br>
+- Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon
+- Supporterz Geek CAMP vol.12
   
 <!--#####  (Participation plan) -->
 
@@ -51,17 +52,3 @@ The study I've been working on lately is typescript, three.js, deep Learning.
 - [Wantedly](https://www.wantedly.com/id/yy_616)
 - [note](https://note.com/_yy616)
 - [Zenn](https://zenn.dev/yy616)
-<!--
-**pythagoras-yamamoto/pythagoras-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
