@@ -11,8 +11,10 @@ The study I've been working on lately is typescript, three.js, deep Learning.
 
 ## Major Works
 
+### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio)
 ### 🏠 [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
-### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
+### 🕶 [Roland Bot](https://github.com/pythagoras-yamamoto/Roland-Bot)
+<!-- ### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze) -->
 </br>
 
 ## Languages and Tools
