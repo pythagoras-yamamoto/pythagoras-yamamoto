@@ -1,28 +1,34 @@
+## 
+
+### 🏠 [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
+### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
+</br>
+
+
 ## About Me
 
-I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study sociophysics, especially fake news and social sensors. 
+### 🎫 Profile
+I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study sociophysics, especially ML and social sensors.  
+The study I've been working on lately is typescript, three.js, deep Learning.
 
-My interests are :
-- Front-End Development, UI/UX
-- Data Analysis
-- Causal Inference, NLP
+### ⚡  Status
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythagoras-yamamoto&show_icons=true&theme=tokyonight)
 
-The study I've been working on lately is :
-- Typescript
-- Three.js
-- Deep Learning
 
 ## Major Works
 
-- [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic)
-- [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
-
+### 🏠 [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
+### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
+</br>
 
 ## Stack
 
+
+
 #### Langages,Framework
 - Python,Javascript
-- React,Express
+- React,Next,Express
 
 #### Infrastructure,Database,Tools
 - MySQL
@@ -33,7 +39,7 @@ The study I've been working on lately is :
 
 ### 2021
 
-#### Internship
+### 💪 Internship
 - NIFTY Corp. (3days internships for engineers) <br>
   Responsible for front-end in scrum development
 - NAVITIME JAPAN Co.,Ltd (3days internships for engineers) <br>
@@ -41,16 +47,16 @@ The study I've been working on lately is :
 - Nikkei Inc. (4days internships for engineers) <br>
   Create a Data-Visualization using WebAPI  <br>
 
-#### Hackathon
+### 💡 Hackathon
 - Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon <br>
   
 <!--#####  (Participation plan) -->
 
   
-#### Rart-Time Job
+### 👨‍💻 Rart-Time Job
 - Preparation
 
-#### Event,Project
+### 🏆 Event,Project
 - Matching HUB Business Idea & Plan Competition 2021, Winner <br>
 - Projection Mapping Opera 2022 <br>
 
