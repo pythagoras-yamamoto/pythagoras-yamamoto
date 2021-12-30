@@ -35,7 +35,7 @@ The study I've been working on lately is typescript, three.js, deep Learning.
 
 ### 💡 Hackathon
 - Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon
-- Supporterz Geek CAMP vol.12
+- Supporterz Geek CAMP vol.12 (Effort Award)
   
 <!--#####  (Participation plan) -->
 
