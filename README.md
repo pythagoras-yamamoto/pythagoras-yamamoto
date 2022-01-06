@@ -11,7 +11,7 @@ The study I've been working on lately is Typescript, SSG, deep Learning.
 
 ## Major Works
 
-### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio)
+<!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
 ### 🏠 [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 <!-- ### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze) -->
