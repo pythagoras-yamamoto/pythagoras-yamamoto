@@ -26,6 +26,10 @@ The study I've been working on lately is Typescript, Webpack.
 
 ### 2021
 
+### 👨‍💻 Rart-Time Job 
+- SocialDog, Inc.(2022.1~)<br>
+  Responsible for front-end in development
+
 ### 💪 Internship
 - NIFTY Corp. (3days internships for engineers) <br>
   Responsible for front-end in scrum development
@@ -39,11 +43,6 @@ The study I've been working on lately is Typescript, Webpack.
 - Supporterz Geek CAMP vol.12 (Effort Award)
   
 <!--#####  (Participation plan) -->
-
-  
-### 👨‍💻 Rart-Time Job
-- SocialDog <br>
-  Responsible for front-end in development
 
 ### 🏆 Event,Project
 - Matching HUB Business Idea & Plan Competition 2021, Winner <br>
