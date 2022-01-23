@@ -42,7 +42,8 @@ The study I've been working on lately is Typescript, Webpack.
 
   
 ### 👨‍💻 Rart-Time Job
-- Preparation
+- SocialDog <br>
+  Responsible for front-end in development
 
 ### 🏆 Event,Project
 - Matching HUB Business Idea & Plan Competition 2021, Winner <br>
