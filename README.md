@@ -26,7 +26,7 @@ The study I've been working on lately is Typescript, Webpack.
 
 ### 2021
 
-### 👨‍💻 Rart-Time Job 
+### 👨‍💻 Part-Time Job 
 - SocialDog, Inc.(2022.1~)<br>
   Responsible for front-end in development
 
