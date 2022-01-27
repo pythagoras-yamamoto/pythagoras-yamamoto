@@ -11,7 +11,7 @@
 
 ### 🎫 Profile
 I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study sociophysics, especially ML and social sensors.  
-The study I've been working on lately is Typescript, Webpack.
+The study I've been working on lately is Typescript, Redux.
 
 ### ⚡  Status
  
