@@ -2,9 +2,17 @@
 ## Major Works ( 採用担当の方はこちらをご覧ください ! )
 
 <!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
+### プログラミング
 ### 🏠 [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 ### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
+
+</br>
+
+### デザイン
+### 🖋 [Design Portfolio](https://yudai-yamamoto-design.studio.site/)
+
+
 </br>
 
 ## About Me
