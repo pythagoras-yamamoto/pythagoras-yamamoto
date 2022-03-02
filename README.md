@@ -18,8 +18,8 @@
 ## About Me
 
 ### 🎫 Profile
-I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study sociophysics, especially ML and social sensors.  
-The study I've been working on lately is Typescript, Redux.
+I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study machine learning, especially NLP, automation system. I'm also interested in Evidence Based Policy Making(EBPM), Machine Learing Systems Engineering(MLSE).
+The study I've been working on lately is Typescript, DB.
 
 ### ⚡  Status
  
