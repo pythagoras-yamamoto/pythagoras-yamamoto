@@ -57,7 +57,7 @@ The study I've been working on lately is Typescript, DB.
 - Projection Mapping Opera 2022 <br>
 
 ## Link
-- [twitter](https://twitter.com/_yy616)
+<!-- - [twitter](https://twitter.com/_yy616) -->
 - [Wantedly](https://www.wantedly.com/id/yy_616)
 - [note](https://note.com/_yy616)
 - [Zenn](https://zenn.dev/yy616)
