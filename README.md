@@ -2,7 +2,7 @@
 ## Major Works ( 採用担当の方はこちらをご覧ください ! )
 
 <!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
-### プログラミング
+### Programing
 ### 🏢 [一般社団法人PADAYON HP](https://padayon.org) 
 ### 🏠 [整体院Meme HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
@@ -10,7 +10,7 @@
 
 </br>
 
-### デザイン
+### Design
 ### 🖋 [Portfolio](https://yudai-yamamoto-design.studio.site/)
 
 
@@ -35,16 +35,16 @@ JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻してい�
 ### 2021
 
 ### 👨‍💻 Part-Time Job 
-<!-- - SocialDog, Inc.(2022.1~)<br>
+<!-- - Colorful ompany, Inc.(2022.1~)<br>
   Responsible for front-end in development -->
 
 ### 💪 Internship
-- NIFTY Corp. (3days internships for engineers) <br>
-  Responsible for front-end in scrum development
-- NAVITIME JAPAN Co.,Ltd (3days internships for engineers) <br>
-  Create a map application using WebAPI
-- Nikkei Inc. (4days internships for engineers) <br>
-  Create a Data-Visualization using WebAPI  <br>
+- ニフティ株式会社 (3days internships for engineers) <br>
+  スクラム開発においてプロダクトオーナーの役割を担当
+- ナビタイムジャパン株式会社 (3days internships for engineers) <br>
+  ナビタイム社のWebAPIを用いた経路探索アプリの開発
+- 日本経済新聞社 (4days internships for engineers) <br>
+  WebAPIを用いたデータビジュアライズ機能を作成 <br>
 
 ### 💡 Hackathon
 - Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon
