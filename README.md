@@ -3,15 +3,15 @@
 
 <!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
 ### プログラミング
-### 🏢 [General Incorporated Association HP](https://padayon.org) 
-### 🏠 [Osteopathic Clinic HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
+### 🏢 [一般社団法人PADAYON HP](https://padayon.org) 
+### 🏠 [整体院Meme HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
-### 📊 [Data Analyze Project](https://github.com/pythagoras-yamamoto/Data-Analyze)
+### 📊 [SNSと株価変動の関係性分析](https://github.com/pythagoras-yamamoto/Data-Analyze)
 
 </br>
 
 ### デザイン
-### 🖋 [Design Portfolio](https://yudai-yamamoto-design.studio.site/)
+### 🖋 [Portfolio](https://yudai-yamamoto-design.studio.site/)
 
 
 </br>
@@ -19,8 +19,7 @@
 ## About Me
 
 ### 🎫 Profile
-I'm a graduate student majoring in Information Science at JAIST [Dam Lab](https://www.jaist.ac.jp/~dam/). I study machine learning, especially NLP, automation system. I'm also interested in Evidence Based Policy Making(EBPM), Machine Learing Systems Engineering(MLSE).
-The study I've been working on lately is Typescript, DB.
+JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻している大学院生です。機械学習、フェイクニュース、自動化システムを研究しています。専門ではありませんが、Evidence Based Policy Making(EBPM)、Machine Learing Systems Engineering(MLSE)、因果探索あたりにも興味があります。
 
 ### ⚡  Status
  
