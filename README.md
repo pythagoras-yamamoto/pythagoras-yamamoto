@@ -35,8 +35,8 @@ JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻してい�
 ### 2021
 
 ### 👨‍💻 Part-Time Job 
-<!-- - Colorful ompany, Inc.(2022.1~)<br>
-  Responsible for front-end in development -->
+<!-- カラフルカンパニー株式会社 (2022.3~)<br>
+ 長期インターン生として開発業務を担当 -->
 
 ### 💪 Internship
 - ニフティ株式会社 (3days internships for engineers) <br>
