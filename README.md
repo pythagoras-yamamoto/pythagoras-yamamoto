@@ -3,8 +3,8 @@
 
 <!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
 ### Programing
-### 🏢 [一般社団法人PADAYON HP](https://padayon.org) 
-### 🏠 [整体院Meme HP](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
+### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
+### 🏠 [整体院Meme ホームページ](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 ### 📊 [SNSと株価変動の関係性分析](https://github.com/pythagoras-yamamoto/Data-Analyze)
 
