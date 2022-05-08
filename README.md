@@ -1,5 +1,5 @@
 
-## Major Works ( 採用担当の方はこちらをご覧ください ! )
+## Major Works ( 採用担当の方はこちらをご覧ください )
 
 <!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
 ### Programing
