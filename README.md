@@ -19,7 +19,7 @@
 ## About Me
 
 ### 🎫 Profile
-JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻している大学院生です。機械学習、フェイクニュース、自動化システムを研究しています。専門ではありませんが、Evidence Based Policy Making(EBPM)、Machine Learing Systems Engineering(MLSE)、因果探索あたりにも興味があります。
+JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻している大学院生です。機械学習、自動システム、敵対的学習を研究しています。専門ではありませんが、Evidence Based Policy Making(EBPM)、因果探索あたりにも興味があります。
 
 ### ⚡  Status
  
@@ -32,11 +32,11 @@ JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻してい�
 
 ## History
 
-### 2021
+### 2021-2022
 
 ### 👨‍💻 Part-Time Job 
-<!-- カラフルカンパニー株式会社 (2022.3~)<br>
- 長期インターン生として開発業務を担当 -->
+ カラフルカンパニー株式会社 (2022.3~)<br>
+ 長期インターン生として開発業務を担当
 
 ### 💪 Internship
 - ニフティ株式会社 (3days internships for engineers) <br>
@@ -53,8 +53,8 @@ JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻してい�
 <!--#####  (Participation plan) -->
 
 ### 🏆 Event,Project
-- Matching HUB Business Idea & Plan Competition 2021, Winner <br>
-- Projection Mapping Opera 2022 <br>
+- [Matching HUB Business Idea & Plan Competition 2021](https://www.jaist.ac.jp/ricenter/jaist-net/news/?p=6369) 入賞<br>
+- [プロジェクションマッピングオペラ 2022](https://www.salute-japan.com/) 演出として参加<br>
 
 ## Link
 <!-- - [twitter](https://twitter.com/_yy616) -->
