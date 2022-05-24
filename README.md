@@ -11,7 +11,7 @@
 
 ### Other
 ### 📊 [SNSと株価変動の関係性分析](https://github.com/pythagoras-yamamoto/Data-Analyze)
-### 🖋 [Portfolio](https://yudai-yamamoto-design.studio.site/)
+### 🖋 [デザイン集](https://yudai-yamamoto-design.studio.site/)
 
 
 </br>
