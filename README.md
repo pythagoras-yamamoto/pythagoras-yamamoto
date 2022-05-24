@@ -19,7 +19,7 @@
 ## About Me
 
 ### 🎫 Profile
-JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻している大学院生です。機械学習、自動システム、敵対的学習を研究しています。専門ではありませんが、Evidence Based Policy Making(EBPM)、因果探索あたりにも興味があります。
+JAIST [Dam研](https://www.jaist.ac.jp/~dam/)で情報科学を専攻しているフロントエンドエンジニア、デザインエンジニア志望の大学院生です。機械学習、自動化システムの研究をしています。
 
 ### ⚡  Status
  
