@@ -4,7 +4,7 @@
 <!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
 ### Web
 ### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
-### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://github.com/pythagoras-yamamoto/Osteopathic-Clinic) 
+### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](memesalon.vercel.app/) 
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 
 </br>
