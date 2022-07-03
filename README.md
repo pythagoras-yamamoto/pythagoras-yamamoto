@@ -52,9 +52,11 @@ JAISTで情報科学を専攻しているフロントエンドエンジニア、
   
 <!--#####  (Participation plan) -->
 
+<!--##### 
 ### 🏆 Event,Project
 - [Matching HUB Business Idea & Plan Competition 2021](https://www.jaist.ac.jp/ricenter/jaist-net/news/?p=6369) 入賞<br>
 - [プロジェクションマッピングオペラ 2022](https://www.salute-japan.com/) 演出として参加<br>
+ -->
 
 ## Link
 <!-- - [twitter](https://twitter.com/_yy616) -->
