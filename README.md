@@ -11,7 +11,7 @@
 
 
 ### other
-### 📊 [フェイクニュースの単語埋め込み空間と情報信憑性の関係](https://github.com/pythagoras-yamamoto/Data-Analyze)
+### 📊 [フェイクニュースの単語埋め込みによる情報信憑性の推定](https://github.com/pythagoras-yamamoto/Data-Analyze)
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 
 </br>
