@@ -4,7 +4,7 @@
 ### Portfolio
 ### 📖 [Yudai Yamamoto Portfolio]()
 
-### Product Design
+### Product
 
 ### Development
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
