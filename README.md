@@ -4,15 +4,22 @@
 ### Portfolio
 ### 📖 [Yudai Yamamoto Portfolio]()
 
+### Product Design
 
-### Application・Design
+### Development
+### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
+<!--##### 
+### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
+### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
+-->
+
+### UI/UX Design
 ### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
 ### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
 
 
-### other
+### Other
 ### 📊 [フェイクニュースの単語埋め込みによる情報信憑性の推定](https://github.com/pythagoras-yamamoto/Data-Analyze)
-### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 
 </br>
 
