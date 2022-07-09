@@ -1,25 +1,34 @@
 
 ## Major Works ( 採用担当の方はこちらをご覧ください )
 
-<!-- ### 📖 [Portflio](https://github.com/pythagoras-yamamoto/Portfolio) -->
-### Web
+### Portfolio
+### 📖 [Yudai Yamamoto Portfolio]()
+
+
+### Application・Design
 ### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
 ### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
+
+
+### other
+### 📊 [フェイクニュースの単語埋め込み空間と情報信憑性の関係](https://github.com/pythagoras-yamamoto/Data-Analyze)
 ### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
 
 </br>
 
-### Other
-### 📊 [SNSと株価変動の関係性分析](https://github.com/pythagoras-yamamoto/Data-Analyze)
-### 🖋 [デザイン集](https://yudai-yamamoto-design.studio.site/)
+<!--##### 
+### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
+### 🖋 [UI / UX](https://yudai-yamamoto-design.studio.site/)
+ -->
 
 
-</br>
-
+<!--##### 
 ## About Me
 
 ### 🎫 Profile
 JAISTで情報科学を専攻しているフロントエンドエンジニア、デザインエンジニア志望の大学院生です。機械学習、自動化システムの研究をしています。
+
+--->
 
 ### ⚡  Status
  
@@ -63,3 +72,5 @@ JAISTで情報科学を専攻しているフロントエンドエンジニア、
 - [Wantedly](https://www.wantedly.com/id/yy_616)
 - [note](https://note.com/_yy616)
 - [Zenn](https://zenn.dev/yy616)
+
+
