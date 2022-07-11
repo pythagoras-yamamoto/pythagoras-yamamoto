@@ -2,7 +2,9 @@
 ## Major Works ( 採用担当の方はこちらをご覧ください )
 
 ### Portfolio
+<!--
 ### 📖 [Yudai Yamamoto Portfolio](https://www.notion.so/yudai-yamamoto/Yudai-Yamamoto-Portfolio-71c84da4358c42998de51b7041c28187?v=ad750901e9134e928901f64c98d6f092)
+-->
 
 ### Product
 
@@ -77,7 +79,7 @@ JAISTで情報科学を専攻しているフロントエンドエンジニア、
 ## Link
 <!-- - [twitter](https://twitter.com/_yy616) -->
 - [Wantedly](https://www.wantedly.com/id/yy_616)
-- [note](https://note.com/_yy616)
 - [Zenn](https://zenn.dev/yy616)
-
-
+- [note](https://note.com/_yy616)
+- [twitter](https://twitter.com/_yy616)
+- [facebook]()
