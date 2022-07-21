@@ -21,7 +21,7 @@
 
 
 ### Other
-### 📊 [フェイクニュースの単語埋め込みによる情報信憑性の推定](https://github.com/pythagoras-yamamoto/Data-Analyze)
+### 📊 [文章埋め込みによるテキスト情報の信憑性評価手法の提案](https://github.com/pythagoras-yamamoto/Data-Analyze)
 
 </br>
 
