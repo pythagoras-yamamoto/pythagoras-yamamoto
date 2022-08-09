@@ -77,4 +77,4 @@ JAISTで情報科学を専攻しているフロントエンドエンジニア、
  -->
 
 ## SNS・Media・Output・Contact
-- [LINK一覧](https://linktr.ee/_yy616)
+[LINK一覧](https://linktr.ee/_yy616)
