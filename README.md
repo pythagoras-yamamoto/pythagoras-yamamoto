@@ -76,10 +76,5 @@ JAISTで情報科学を専攻しているフロントエンドエンジニア、
 - [プロジェクションマッピングオペラ 2022](https://www.salute-japan.com/) 演出として参加<br>
  -->
 
-## Link
-<!-- - [twitter](https://twitter.com/_yy616) -->
-- [Wantedly](https://www.wantedly.com/id/yy_616)
-- [Zenn](https://zenn.dev/yy616)
-- [note](https://note.com/_yy616)
-- [twitter](https://twitter.com/_yy616)
-- [facebook]()
+## SNS・Media・Output・Contact
+- [LINK一覧](https://linktr.ee/_yy616)
