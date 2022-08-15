@@ -1,45 +1,12 @@
 
-## Major Works ( 採用担当の方はこちらをご覧ください )
+## Major Works
 
-### Portfolio
-<!--
-### 📖 [Yudai Yamamoto Portfolio](https://www.notion.so/yudai-yamamoto/Yudai-Yamamoto-Portfolio-71c84da4358c42998de51b7041c28187?v=ad750901e9134e928901f64c98d6f092)
--->
-
-### Product
-
-### Development
-### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
-<!--##### 
-### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
-### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
--->
-
-### UI/UX Design
-### 🏢 [一般社団法人PADAYON コーポレートサイト](https://padayon.org) 
-### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
+#### 📗 [Yudai Yamamoto Portfolio](https://yudai-yamamoto.studio.site)
+#### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
+#### 📊 [ニュース文章の埋め込み空間の可視化によるテキスト情報の信憑性評価](https://github.com/pythagoras-yamamoto/Data-Analyze)
 
 
-### Other
-### 📊 [文章埋め込みによるテキスト情報の信憑性評価手法の提案](https://github.com/pythagoras-yamamoto/Data-Analyze)
-
-</br>
-
-<!--##### 
-### 🕶 [AI Roland Bot](https://github.com/pythagoras-yamamoto/AI-Roland-Bot)
-### 🖋 [UI / UX](https://yudai-yamamoto-design.studio.site/)
- -->
-
-
-<!--##### 
-## About Me
-
-### 🎫 Profile
-JAISTで情報科学を専攻しているフロントエンドエンジニア、デザインエンジニア志望の大学院生です。機械学習、自動化システムの研究をしています。
-
---->
-
-### ⚡  Status
+## Status
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythagoras-yamamoto&show_icons=true&theme=tokyonight)
 
@@ -52,11 +19,9 @@ JAISTで情報科学を専攻しているフロントエンドエンジニア、
 
 ### 2021-2022
 
-### 👨‍💻 Part-Time Job 
-- カラフルカンパニー株式会社 (2022.3~)<br>
+### 👨‍💻 Part-Time Job, Internship
+- カラフルカンパニー株式会社 (2022.4~2022.9)<br>
  長期インターン生として開発業務を担当
-
-### 💪 Internship
 - ニフティ株式会社 (3days internships for engineers) <br>
   スクラム開発においてプロダクトオーナーの役割を担当
 - ナビタイムジャパン株式会社 (3days internships for engineers) <br>
