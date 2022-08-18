@@ -3,7 +3,7 @@
 
 #### 📗 [Yudai Yamamoto Portfolio](https://yudai-yamamoto.studio.site)
 #### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
-#### 📊 [ニュース文章の埋め込み空間の可視化によるテキスト情報の信憑性評価](https://github.com/pythagoras-yamamoto/Data-Analyze)
+#### 📊 [ニュース文章の埋め込み空間の可視化によるテキスト情報の信憑性評価](https://github.com/pythagoras-yamamoto/visualize_embedding_fake_news)
 
 
 ## Status
