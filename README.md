@@ -21,17 +21,9 @@
 
 ## History
 
-### 2021-2022
-
 ### 👨‍💻 Part-Time Job, Internship
-- カラフルカンパニー株式会社 (2022.4~2022.9)<br>
- 長期インターン生として開発業務を担当
-- ニフティ株式会社 (3days internships for engineers) <br>
-  スクラム開発においてプロダクトオーナーの役割を担当
-- ナビタイムジャパン株式会社 (3days internships for engineers) <br>
-  ナビタイム社のWebAPIを用いた経路探索アプリの開発
-- 日本経済新聞社 (4days internships for engineers) <br>
-  WebAPIを用いたデータビジュアライズ機能を作成 <br>
+- [Cybozu, Inc.](https://cybozu.co.jp/en/company/?_gl=1*pi3leo*_ga*MTg4NTQwMDg4NC4xNjU3ODgxNDY4*_ga_T5K95WXL54*MTY3MzA1OTE4NS41MC4xLjE2NzMwNTkxOTIuNTMuMC4w&_ga=2.122844811.1077073153.1673059186-1885400884.1657881468) (2023.4~)<br>
+   
 
 ### 💡 Hackathon
 - Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon
@@ -45,5 +37,5 @@
 - [プロジェクションマッピングオペラ 2022](https://www.salute-japan.com/) 演出として参加<br>
  -->
 
-## SNS・Media・Output・Contact
-[LINK一覧](https://linktr.ee/_yy616)
+## SNS・Media
+- [linktree](https://linktr.ee/_yy616)
