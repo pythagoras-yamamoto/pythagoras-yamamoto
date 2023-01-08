@@ -21,15 +21,11 @@
 
 ## History
 
-### 👨‍💻 Part-Time Job, Internship
-- [Cybozu, Inc.](https://cybozu.co.jp/en/company/?_gl=1*pi3leo*_ga*MTg4NTQwMDg4NC4xNjU3ODgxNDY4*_ga_T5K95WXL54*MTY3MzA1OTE4NS41MC4xLjE2NzMwNTkxOTIuNTMuMC4w&_ga=2.122844811.1077073153.1673059186-1885400884.1657881468) (2023.4~)<br>
-   
+### 👨‍💻 Experience
+- #### 2023-present : [Cybozu, Inc.](https://cybozu.co.jp/en/company/?_gl=1*pi3leo*_ga*MTg4NTQwMDg4NC4xNjU3ODgxNDY4*_ga_T5K95WXL54*MTY3MzA1OTE4NS41MC4xLjE2NzMwNTkxOTIuNTMuMC4w&_ga=2.122844811.1077073153.1673059186-1885400884.1657881468) (Junior Software Engineer)
 
-### 💡 Hackathon
-- Yamato Transport, Ltd. The 2nd Yamato Transport Hackathon
-- Supporterz Geek CAMP vol.12 (Effort Award)
-  
-<!--#####  (Participation plan) -->
+### 🎓 Education
+- #### 2021-2023 : [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/english/) (Master of Information Science and Technology)
 
 <!--##### 
 ### 🏆 Event,Project
