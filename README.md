@@ -33,5 +33,5 @@
 - [プロジェクションマッピングオペラ 2022](https://www.salute-japan.com/) 演出として参加<br>
  -->
 
-## SNS・Media
-- [linktree](https://linktr.ee/_yy616)
+<!-- ## SNS・Media
+- [linktree](https://linktr.ee/_yy616) -->
