@@ -22,7 +22,7 @@
 ## History
 
 ### 👨‍💻 Experience
-- #### 2023-present : [Cybozu, Inc.](https://cybozu.co.jp/en/company/?_gl=1*pi3leo*_ga*MTg4NTQwMDg4NC4xNjU3ODgxNDY4*_ga_T5K95WXL54*MTY3MzA1OTE4NS41MC4xLjE2NzMwNTkxOTIuNTMuMC4w&_ga=2.122844811.1077073153.1673059186-1885400884.1657881468) (Junior Software Engineer)
+- #### 2023-present : [Cybozu, Inc.](https://cybozu.co.jp/en/company/?_gl=1*pi3leo*_ga*MTg4NTQwMDg4NC4xNjU3ODgxNDY4*_ga_T5K95WXL54*MTY3MzA1OTE4NS41MC4xLjE2NzMwNTkxOTIuNTMuMC4w&_ga=2.122844811.1077073153.1673059186-1885400884.1657881468) (Frontend Engineer)
 
 ### 🎓 Education
 - #### 2021-2023 : [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/english/) (Master of Information Science and Technology)
