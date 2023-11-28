@@ -5,11 +5,11 @@
 #### 🏠 [リラクゼーションサロン 「めめ」 ホームページ](https://memesalon.vercel.app/) 
 #### 📊 [ニュース文章の埋め込み空間の可視化によるテキスト情報の信憑性評価](https://github.com/pythagoras-yamamoto/visualize_embedding_fake_news)
 -->
-
+<!--
 ## Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythagoras-yamamoto&show_icons=true&theme=tokyonight)
-
+-->
 
 
 
